@@ -37,6 +37,3 @@ By using these models, businesses can:
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request. For significant changes, please open an issue to discuss your ideas.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
